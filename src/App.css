@@ -1,0 +1,8 @@
+.container{
+  width: 100vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    border: solid rgb(149, 66, 66) 10px;
+}
